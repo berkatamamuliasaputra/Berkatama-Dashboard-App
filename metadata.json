@@ -1,0 +1,8 @@
+{
+  "name": "Remix ProcureOS - BMS Procurement System",
+  "description": "Dashboard Monitoring Procurement System dengan Form PR, PO, Quotation, Invoice, Delivery, Supplier, System Approval, dan Export Code.gs \u0026 index.html untuk Google Apps Script.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
