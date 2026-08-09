@@ -3,8 +3,8 @@
 // Google Apps Script Backend (Code.gs) - Update Final 02 Agustus 2026
 // ==============================================================================
 
-const SPREADSHEET_ID = '1XiD6IvxygNS0t9tHa2nSHHl6s3uE-CuQpO1ei9Q9QV4'; // 🔑 ID Spreadsheet
-const FOLDER_ID      = '1VpzFjXgWvctBQrYcNfIF2AllaPkJnMRC';               // 📁 ID Root Folder Google Drive
+const SPREADSHEET_ID = ''; // 🔑 ID Spreadsheet
+const FOLDER_ID      = '';               // 📁 ID Root Folder Google Drive
 
 // ─── Entry point ──────────────────────────────────────────────────────────────
 function doGet(e) {
